@@ -11,9 +11,5 @@
     echo $val;
     $val += 4;
     echo $val;
-    $bool = true;
-    echo $bool;
-    $bool = false;
-    echo $bool;
 
 ?>
